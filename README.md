@@ -18,12 +18,15 @@ An LSPosed module that replaces Android app bottom navigation bars with a real-t
 | :---: | :---: | :---: | :---: |
 | <img src="docs/x/images/phone.png" width="200" alt="X" /> | <img src="docs/spotify/images/phone.png" width="200" alt="Spotify" /> | <img src="docs/tiktok/images/phone.png" width="200" alt="TikTok" /> | <img src="docs/bereal/images/phone.png" width="200" alt="BeReal." /> |
 
-## Supported Apps
+## Supported Apps & Versions
 
-- **Apple Music** (`com.apple.android.music`)
+- **Apple Music** (`com.apple.android.music`): `v6.5.3` / `v7.0.0`
   - Supports **Apple Music Sing** (on-device real-time vocal adjustment with native lyric view mic slider controls).
 - **X** (`com.twitter.android`)
 - **Spotify** (`com.spotify.music`)
 - **TikTok** (`com.ss.android.ugc.trill`)
 - **BeReal.** (`com.bereal.ft`)
   - **Note:** BeReal. requires [BeFuck](https://github.com/tqmane/befuck) to be used together.
+
+> [!NOTE]
+> Apps other than Apple Music support their latest versions as of **November 1, 2026**.

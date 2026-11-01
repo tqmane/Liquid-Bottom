@@ -18,12 +18,15 @@ Android アプリのボトムバーを、リアルタイムに背景を屈折・
 | :---: | :---: | :---: | :---: |
 | <img src="docs/x/images/phone.png" width="200" alt="X" /> | <img src="docs/spotify/images/phone.png" width="200" alt="Spotify" /> | <img src="docs/tiktok/images/phone.png" width="200" alt="TikTok" /> | <img src="docs/bereal/images/phone.png" width="200" alt="BeReal." /> |
 
-## 対応アプリ
+## 対応アプリ・バージョン
 
-- **Apple Music** (`com.apple.android.music`)
+- **Apple Music** (`com.apple.android.music`): `v6.5.3` / `v7.0.0`
   - **Apple Music Sing** に対応（オンデバイスでのリアルタイムボーカル分離・純正歌詞画面のマイクスライダー操作）。
 - **X** (`com.twitter.android`)
 - **Spotify** (`com.spotify.music`)
 - **TikTok** (`com.ss.android.ugc.trill`)
 - **BeReal.** (`com.bereal.ft`)
   - ※ **BeReal.** のみ、[BeFuck](https://github.com/tqmane/befuck) の併用が必須です（必ず併用してください）。
+
+> [!NOTE]
+> Apple Music 以外のアプリは、**2026/11/1 時点の最新バージョン**に対応しています。
